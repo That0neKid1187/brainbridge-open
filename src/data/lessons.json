@@ -1,0 +1,20 @@
+{
+    "stem-301": {
+      "title": "Intro to AI",
+      "topic": "stem",
+      "content": "This lesson covers the basics of artificial intelligence, including machine learning, neural networks, and real-world applications.",
+      "tags": ["AI", "STEM", "Technology"]
+    },
+    "stem-302": {
+      "title": "Engineering Design 101",
+      "topic": "stem",
+      "content": "Learn how engineers approach problem-solving through iterative design, prototyping, and testing.",
+      "tags": ["Engineering", "Design"]
+    },
+    "career-201": {
+      "title": "Build a Resume",
+      "topic": "career",
+      "content": "Learn how to write a killer resume, even if you have no experience. We’ll cover formatting, bullet points, and personalization.",
+      "tags": ["Careers", "Resume"]
+    }
+  }
